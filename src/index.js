@@ -19,3 +19,7 @@ function random(number) {
     return randomItems;
   }
 }
+
+function dummy() {
+  console.log("dummy called");
+}

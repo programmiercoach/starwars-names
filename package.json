@@ -69,7 +69,7 @@
   },
   "config": {
     "ghooks": {
-      "pre-commit": "npm run validate"
+     "pre-commit": "npm run validate"
     },
     "commitizen": {
       "path": "node_modules/cz-conventional-changelog"
