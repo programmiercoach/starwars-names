@@ -23,3 +23,7 @@ function random(number) {
 function dummy() {
   console.log("dummy called");
 }
+
+function dummy2() {
+  console.log("Dummy2");
+}
